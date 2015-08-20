@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 31.999999 31.999998"
+   id="svg4413"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="minitube.svg">
+  <defs
+     id="defs4415" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#e8e8e0"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="15.037374"
+     inkscape:cy="26.453145"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4421"
+       spacingx="2.0000001"
+       spacingy="2.0000001"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4418">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       id="g4172"
+       style="opacity:0.8">
+      <rect
+         ry="2"
+         rx="1.9999998"
+         y="1023.8622"
+         x="3.4999998"
+         height="24.999998"
+         width="24.999998"
+         id="rect4315"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ed1515;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.76862745" />
+      <rect
+         style="opacity:1;fill:#ed1515;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.76862745"
+         id="rect3343"
+         width="16.999998"
+         height="8.999999"
+         x="7.4999995"
+         y="1035.8622"
+         rx="1.9999999"
+         ry="2" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4145"
+         y="1034.3242"
+         x="9.6827011"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.57661819px;line-height:100%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1034.3242"
+           x="9.6827011"
+           id="tspan4147"
+           sodipodi:role="line">Mini</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4149"
+         y="1043.4764"
+         x="9.9094858"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.05137348px;line-height:100%;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1043.4764"
+           x="9.9094858"
+           id="tspan4151"
+           sodipodi:role="line">Tube</tspan></text>
+    </g>
+  </g>
+</svg>
